@@ -1,0 +1,2 @@
+# sodoma
+black list
